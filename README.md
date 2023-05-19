@@ -71,3 +71,6 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 * Speaking about other different cluster methods, K mean, hierarchical, agglomerative clustering on data, we got the best cluster arrangements.
 
 * 3 is the best cluster for this dataset
+
+![55773758016451](https://github.com/tarun422/Netflix-DataSet-Clustring/assets/81609862/56f2f514-3018-4bd6-8699-c8b56ff1aac3)
+
